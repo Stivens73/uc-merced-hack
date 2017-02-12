@@ -1,0 +1,41 @@
+.itemImg {
+  height: 400px; }
+
+.box1 {
+  background-color: #FB5607; }
+
+.box2 {
+  background-color: #FF006E; }
+
+.box3 {
+  background-color: #3A86FF; }
+
+.box {
+  color: white; }
+
+#start {
+  background-color: #FFBE0B;
+  margin: .2em; }
+
+body {
+  background: #8338EC; }
+
+#title {
+  font-size: 3em;
+  color: white; }
+
+.itemName {
+  font-size: 2em; }
+
+.count {
+  font-size: 2em; }
+
+.plus {
+  font-size: 1.5em; }
+
+.minus {
+  font-size: 1.5em; }
+
+#start {
+  padding: .5em 1em;
+  font-size: 3em; }
